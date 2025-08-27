@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Williams Jeffery
-Williams Jeffery
+alt = Richard hanrick
+Richard hanrick
 Web developer
 
 Show Contacts
